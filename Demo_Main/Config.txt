@@ -1,0 +1,5 @@
+Path = 
+APPID = 
+APIKey = 
+APISecret = 
+Copy .txt file to = 
